@@ -1,0 +1,128 @@
+14/8/2023
+
+In order to run the java file main method should be there.but we can compile,it is a starting point of java program,jvm will run the main method.
+in place of args w can keep anything.
+keywords having spl meaning in java meaning itself
+keywords are also called
+this are an reserved words
+this are also building blocks of java program, java8 having 50 keywords
+reserved literals is value that can be assigned to  variables(null,true,false)
+main is a name of the method
+identifier is a name in java programming to identify somthing like name,class
+class name can be capital A-Z or small a-z
+the first letter may in caps follow the camel case
+while identifying the class we should not give the numbers
+in between or at the end of identifier we can give the number but not starting identifiers
+while developing the identifier we cannot use spl characters (only two spl characters are allowed[$ and _ ] we can keep anywhere in the identifier)
+Keywords cannot be used as identifiers
+while compiling cases like higher and lower case it will ignore due to window class
+after generating the compiler to run in JVM the code The generated class will be case sensitive we should give the perfect class name
+Empty java file can be develop and compiled,but we cannot run
+we can run the file by just giving the .java name and we can compile
+in same folder or src folder we cannot give More than one same 
+Kernel,string,system inbuilt class but we can able to develop the identifier it will run the code possible but it is not recomended bcz it will lead to confusions
+Runnable is an inbuilt interface name its not recommended bcz that leads to the confusion.
+We can able to develop the identifier name with any length but not recommended and as a standerd we need keep small and simple with meaning
+
+16/8/2023
+
+println is a method , ln stands for line
+system is a class
+within apair of double cote string value
+console,command prompt,
+main also one method 
+args parameter 
+print and println 
+print will first print and next it will check whether it is ln or not
+if it is ln then the courser will come to next line after printing its content
+\n escape charecter we get an new line
+\t tab space(4 spaces) depends on console or command prompt it sets to and with respect to java it sets to 8 spaces
+space also an one charaecter
+escape charecter will not disply
+
+Literals
+
+creating one folder of literals in that src and classes folder
+def:literal is a value that can be assigned to a variable
+in java we have 5 types of literals
+1.string literal
+2.integer literal(numbers)
+3.floating point literals(decimal point)
+4.charecter literal(inside a pair of single coute we have an chatecter)
+5.boolean literal(true or false)
+in double coute it takes as string
+by removing the bracket cd ../ if i want to go back
+cd ../../ it comes to the language fundamentals
+cd ../../6.arithmetic_operator/src (we comes to the which we need)
+
+in case of mode we get an remainder
+in case of division we get an quatiant
+
+datatypes:in order to specify the what type of data
+
+in java we have 2 types of datatypes
+1.primitive
+2.non oremitive or reference type
+
+byte,short,float,double,char,boolean,long,int
+
+
+int i;  is an variable declaration of variable name
+int name is identifier
+= is left side of an assignment operator
+i is an local variable limited to main method
+10 is the intiger literal
+in java every statement is end with semi colon
+same var we can initialize many times no prblm
+var is also an identifier
+for each and evry data type 
+in case of numbers it is an ranges 
+byte range -128 to +127
+short range = -32,768 to 32,768    (search in google data type ranges in java)
+
+white spaces will be ignored by the compiler for readablity purpose we can use
+
+by default the decimal value considerd as double values 
+in case of float compalsary need to include f in upper case or lower case
+
+in sop (print) also we can intialize the variable and printing also and declaration is not possible
+string is non primitive, is a inbuilt calss,its also datatype
+
+relational operators
+/* */ it is an multi level comment
+
+21/8/2023
+
+if block
+
+what ever may there in if block resulting value must be in boolean,other than that it will give compilation error
+it have opening and closing curly bracket,we can pass many number of statements due to brackets
+if(true)//condition
+if the condition writerning false it will not execute directly it will executes main method
+we can keep some expression inside the if.
+
+doubleAND operator
+
+both the oparand must be resulting true
+
+
+git coommnds
+
+git status==> checking any modifications happened
+git add . ==> adding the changes
+git commit -m ==> message 
+logical operator and if-else-condition ==>enter
+
+git push -u origin main  (enter)
+
+
+
+
+
+
+
+
+ 
+
+
+
