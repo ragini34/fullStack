@@ -117,7 +117,117 @@ git push -u origin main  (enter)
 
 
 
+single AND & OR is also called bitwise
+it will check both expression 
 
+for one if block we can develop n number of else if block
+else and if are seperate keywords
+if block is true than there no need of exceuting else if block
+
+else if must be true than only executes
+
+any one is true than it wont continue to next else if block
+
+in between else if we cannot keep else block
+
+we should not keep any statement other than else if block in betwen else if and else
+
+for loop is a basic loop
+for is a keyword
+for loop is having 3 parts
+1.initialization section(executes only once)
+; sepertor
+2.checkimg condition(if condition true than only it enters to body,executes body)
+3.increment or decrement()
+keep on executes until it becomes condition false
+
+23/8/23(programiz online java compiler)
+
+for(i=0; false; i++)
+if everytime the condition become false next statement becomes dead 
+
+for(i=0;i<0;i++)
+this statement may executes next line
+
+for(i=0; (false==false);i++)
+this statement will executes infinite
+false&&false will 
+directly if we pass false like boolean value we get an unreachable 
+
+we cannot increment the boolean value like b++
+
+if we pass or use variables there is chance of getting modify the variable
+if i compare the variables esimply we get the 
+
+after initializing variable we can declare any no.of print terms
+
+initializer
+iteration count is zero while 0th increment
+
+continue statement
+
+without executing competing continue than only 
+
+labelling
+within the nested loop by using continue or break we can use labeling
+
+ternary operators
+
+we can reduce the code                   hackersrank
+ternary indicates thre parts
+the condition true 1st executes not second will executes
+depends on condition
+? ==> wild charecter
+
+if condition is true than before isto (:) condition will executes
+if that is false than after the condition will executes
+
+
+min is int type
+
+enhanced for loop or for each loop
+
+type of a loop
+introduced in JDK1.5
+for each iteration one element supplied to int type
+array is an int type
+to hold array elements we are declaring int type
+
+to hold double value we declare double array
+
+for loop compalsory we need to declare inside only
+
+
+while loop
+a kind of loop its an keyword
+as long as condition true it keep on executing until the condition becomes false
+
+
+8792928611 support@excelr.com
+//ppt topic name 
+//4 5 lines theory
+1 or 2 examples
+
+features of java how to download JDK
+
+
+hackerrank
+java if else java loop
+after scanner
+
+
+
+
+git add .
+git commit 
+git push -u origin main
+git checkout javaPrac
+
+we can cret braches in git 
+
+git branch practice
+git checkout practice
+git push -u origin practice(new branch name)
 
 
 
